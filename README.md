@@ -1,6 +1,6 @@
 # 👋 SWEET HOUSE OF YOUNG CODER 👋
 
- <p><img src="https://d2p4y1juxwnww4.cloudfront.net/f7b/3e029/e1fe/48f0/b89b/90ee751e42c0/thumb/320518.jpg"  align="right">
+ <p><img src="https://namobilu.com/u/img/is/485/120/120485.jpg"  align="right">
    
    **You can always find me at these addresses:**
 <br>💼[VKontakte][1]</br>
