@@ -16,6 +16,12 @@ _**You can always find me at these addresses:**_
   <img src="https://i.pinimg.com/736x/34/fc/9b/34fc9bc7ac8acdda51d982db8db1e91a.jpg" />
 </p>
 
+ <p><img src="https://i.pinimg.com/736x/34/fc/9b/34fc9bc7ac8acdda51d982db8db1e91a.jpg"  align="left" vspace="5" hspace="5">
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diem nonummy nibh 
+  euismod tincidunt ut lacreet dolore magna aliguam erat volutpat. Ut wisis enim 
+  ad minim veniam, quis nostrud exerci tution ullamcorper suscipit lobortis nisl 
+  ut aliquip ex ea commodo consequat.</p> 
+
 
 
 <!--
