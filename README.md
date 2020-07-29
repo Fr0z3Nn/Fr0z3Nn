@@ -1,5 +1,5 @@
 <center># SWEET HOUSE OF YOUNG CODER 👋</center>
-_**You can always find me at these addresses:**_   
+**You can always find me at these addresses:**  
 💼[VKontakte][1]   
 📱[Telegram][2]
 
@@ -13,7 +13,7 @@ _**You can always find me at these addresses:**_
 ✅ *GIT / GITHUB*
 
  <p><img src="https://d2p4y1juxwnww4.cloudfront.net/f7b/3e029/e1fe/48f0/b89b/90ee751e42c0/thumb/320518.jpg"  align="right">
-   <b>You can always find me at these addresses:</b>   
+   **You can always find me at these addresses:**
 💼[VKontakte][1]   
 📱[Telegram][2]
 
