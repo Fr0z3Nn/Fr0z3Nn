@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://www.codewars.com/users/Fr0z3Nn/badges/large
+![github-small](https://www.codewars.com/users/Fr0z3Nn/badges/large)
 
 <!--
 **Fr0z3Nn/Fr0z3Nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
