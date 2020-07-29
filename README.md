@@ -1,5 +1,5 @@
 # SWEET HOUSE OF YOUNG CODER 👋
-You can always find me at these addresses:
+__**You can always find me at these addresses:**__
 💼[VKontakte][1]
 📱[Telegram][2]
 
