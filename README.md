@@ -12,11 +12,7 @@ _**You can always find me at these addresses:**_
 ✅ *JAVA CORE*   
 ✅ *GIT / GITHUB*
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/34/fc/9b/34fc9bc7ac8acdda51d982db8db1e91a.jpg" />
-</p>
-
- <p><img src="https://avatars.mds.yandex.net/get-pdb/2745596/fdf6b9b7-3509-46db-a567-10d535309233/s1200?webp=false"  align="right" vspace="5" hspace="5">
+ <p><img src="https://d2p4y1juxwnww4.cloudfront.net/f7b/3e029/e1fe/48f0/b89b/90ee751e42c0/thumb/320518.jpg"  align="right">
   # SWEET HOUSE OF YOUNG CODER 👋
 _**You can always find me at these addresses:**_   
 💼[VKontakte][1]   
