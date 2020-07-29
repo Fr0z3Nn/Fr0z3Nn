@@ -1,7 +1,6 @@
 # 👋 SWEET HOUSE OF YOUNG CODER 👋
 
- <p><img src="https://art-wall.ru/aw/bs871.jpg"  align="right">
-<div align="center">   
+ <p><img src="https://art-wall.ru/aw/bs871.jpg"  align="right">  
    **You can always find me at these addresses:**
 <br>💼[VKontakte][1]</br>
 📱[Telegram][2]
@@ -13,6 +12,5 @@
 
 ✅ *JAVA CORE*   
 ✅ *GIT / GITHUB*
- </div>
   </p> 
 
