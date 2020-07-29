@@ -9,7 +9,7 @@
 [1]: https://vk.com/id49385182        "My VK Page"
 [2]: https://t.me/Fr0z3Nn             "My Telegram Page"
 
-🌱 **I’m currently learning Java.**🤔
+🌱 **I’m currently learning Java.** 🤔
 
 ✅ *JAVA CORE*   
 ✅ *GIT / GITHUB*
