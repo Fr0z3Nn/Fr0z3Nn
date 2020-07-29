@@ -1,9 +1,9 @@
 # SWEET HOUSE OF YOUNG CODER 👋
 You can always find me at these addresses:
 
-⋅⋅⋅*💼[VKontakte][1]
+*💼[VKontakte][1]
 
-⋅⋅⋅*📱[Telegram][2]
+*📱[Telegram][2]
 
 [1]: https://vk.com/id49385182        "My VK Page"
 [2]: https://t.me/Fr0z3Nn             "My Telegram Page"
