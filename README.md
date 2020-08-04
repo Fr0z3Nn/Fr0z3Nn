@@ -14,11 +14,11 @@
 ✅ *JAVA CORE*   
 ✅ *GIT / GITHUB*
 
-**As long as you're alive, anything is possible**
+**As long as you're alive, anything is possible**    
 There is only one good reason why a person can give up. This is death. So, as long as you are alive, you must go to your goal.
-**Be realists**
+**Be realists**    
 I don't think you can do it all the first time. You are going to make a lot of mistakes, but don't forget to learn from them.
-**You're strong**
+**You're strong**       
 Man is much stronger than he thinks. Including you. Nothing can stop you from succeeding. Even thousands of defeats.
 **Prove themselves**
 Show the world what you can do. You will only fail when you give up.
