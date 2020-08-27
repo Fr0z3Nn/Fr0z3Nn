@@ -11,7 +11,8 @@
 
 🌱 **I’m currently learning Java.** 🤔
 
-✅ *JAVA CORE*   
+✅ *JAVA CORE*
+✅ *JAVA COLLECTIONS*
 ✅ *GIT / GITHUB*
 
 **As long as you're alive, anything is possible**    
