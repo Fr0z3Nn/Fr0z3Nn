@@ -11,9 +11,9 @@
 
 🌱 **I’m currently learning Java.** 🤔
 
-✅ *JAVA CORE*
-✅ *JAVA COLLECTIONS*
-✅ *GIT / GITHUB*
+✅ *JAVA CORE*   
+✅ *JAVA COLLECTIONS*   
+✅ *GIT / GITHUB*   
 
 **As long as you're alive, anything is possible**    
 There is only one good reason why a person can give up. This is death. So, as long as you are alive, you must go to your goal.    
