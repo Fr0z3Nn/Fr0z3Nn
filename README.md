@@ -12,6 +12,7 @@
 🌱 **I’m currently learning Java.** 🤔
 
 ✅ *JAVA CORE*   
-✅ *JAVA COLLECTIONS*   
+✅ *JAVA COLLECTIONS*  
+✅ *JAVA STREAM API*
 ✅ *GIT / GITHUB*   
 
