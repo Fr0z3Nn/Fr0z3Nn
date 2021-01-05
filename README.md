@@ -1,6 +1,4 @@
 # 👋 SWEET HOUSE OF YOUNG CODER 👋
-
- <p><img src="https://art-wall.ru/aw/bs871.jpg"  align="right">  
  
    **You can always find me at these addresses:**
 <br>💼[VKontakte][1]</br>
