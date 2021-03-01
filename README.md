@@ -15,7 +15,7 @@
 ✅ *SPRING CORE*   
 ✅ *SPRING BOOT*     
 ✅ *SPRING DATA*     
-✅ *H2 / POSTGRESQL* 
+✅ *H2 / POSTGRESQL*     
 ✅ *JUNIT*           
 ✅ *GIT / GITHUB*   
 
