@@ -11,6 +11,12 @@
 
 ✅ *JAVA CORE*   
 ✅ *JAVA COLLECTIONS*  
-✅ *JAVA STREAM API*
+✅ *JAVA STREAM API*   
+✅ *SPRING CORE*   
+✅ *SPRING BOOT*     
+✅ *SPRING DATA*     
+✅ *H2 / POSTGRESQL* 
+✅ *JUNIT*           
 ✅ *GIT / GITHUB*   
+
 
